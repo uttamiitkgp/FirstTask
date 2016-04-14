@@ -1,1 +1,1 @@
-C:\WINDOWS\system32\windowspowershell\v1.0\powershell.exe C:\MyScripts\OTSI\OTSI.ps1
+C:\WINDOWS\system32\windowspowershell\v1.0\powershell.exe %WORKSPACE%\OTSI\OTSI.ps1
